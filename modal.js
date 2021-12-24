@@ -27,5 +27,3 @@ function launchModal() {
 function closeModal() {
   modalbg.style.display = "none";
 }
-
-
